@@ -1,5 +1,8 @@
 ## Hi there 👋 
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jyw8U49KDA) 
+
+
 I'm **Ahmad Ariiq Khoironi** — primarily a Java Developer!
 
 My current focus is on designing and managing scalable, maintainable systems, while continuously expanding my knowledge by exploring new technologies.  
@@ -9,5 +12,5 @@ I strive to build systems that are simple, scalable, and easy to maintain and up
 ⚡ Fun fact: I started programming at the age of 15, trying to build my own Minecraft server!
 
 ## 📫 Get in touch
-- Discord: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jyw8U49KDA) 
+- Discord: `booiled`
 
