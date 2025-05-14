@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jyw8U49KDA) 
+## Hi there 👋 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jyw8U49KDA) 
 
 I'm **Ahmad Ariiq Khoironi** — primarily a Java Developer!
 
