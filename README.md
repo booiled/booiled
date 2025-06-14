@@ -12,5 +12,5 @@ I strive to build systems that are simple, scalable, and easy to maintain and up
 ⚡ Fun fact: I started programming at the age of 15, trying to build my own Minecraft server!
 
 ## 📫 Get in touch
-- Discord: `booiled`
+- Discord: `craft_cube_n`
 
